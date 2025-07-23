@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/lapini99/whataclip-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lapini99/whataclip-frontend.git
