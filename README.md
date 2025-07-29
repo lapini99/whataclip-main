@@ -2,6 +2,8 @@
 
 A full-stack application with Rust backend and Next.js frontend for managing clips.
 
+The whole point of this project is to build a platform where you can share your clips with your friends. You can also be part of different "families" where you and your friends will be able to see your favorites clips whenever you want.
+
 ## Architecture
 
 This project uses a microservices architecture with git submodules:
@@ -9,6 +11,7 @@ This project uses a microservices architecture with git submodules:
 - **Backend**: Rust application with Rocket framework ([whataclip-backend](https://github.com/lapini99/whataclip-backend.git))
 - **Frontend**: Next.js React application ([whataclip-frontend](https://github.com/lapini99/whataclip-frontend.git))
 - **Database**: MongoDB
+- **Storage**: Backblaze
 
 ## Getting Started
 
