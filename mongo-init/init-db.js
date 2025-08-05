@@ -10,6 +10,9 @@ db.users.insertMany([
     "username": "lapini",
     "password": "a",
     "role": "admin",
+    "avatar": "https://static.wikia.nocookie.net/murderseries/images/6/67/BigBoss.jpg/revision/latest?cb=20200827054522",
+    "createdAt": "2025-08-01T00:00:00Z",
+    "biography": "I am creating this app because yes.",
     "currentFamilies": 
         [
             {
